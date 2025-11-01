@@ -1,0 +1,7 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+
+# Terraform state
+terraform.tfstate
+terraform.tfstate.backup
